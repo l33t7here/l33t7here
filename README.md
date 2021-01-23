@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue-Js**
 
-- 🥺Wanna See My Projects?? => See There They Are [leethere.me](leethere.me)
+- 🥺Wanna See My Projects?? => See There They Are <a href="http://leethere.me">leethere.me</a>
 
 - Email Me For Any Query :) **beastsayhello@gmail.com**
 
